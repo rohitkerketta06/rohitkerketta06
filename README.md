@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am Rohit.
-A BTech CSE student specializing in secure, data-driven applications through C++, Python, and Java Bridging Web Development and Data Science with a focus on DSA, IoT, and Cybersecurity.
-
+Engineering secure, high-performance applications with a focus on Web Security and Data-Driven Intelligence. Proficient in C++, Java, and Python, I bridge the gap between robust software development and ethical hacking to build resilient digital systems.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkerketta484@gmail.com) 
