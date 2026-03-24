@@ -20,8 +20,7 @@ Engineering secure, high-performance applications with a focus on Web Security a
   <img src="https://github-readme-stats.vercel.app/api?username=rohitkerketta06&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Main Stats" />
   
   <br/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
   
   <br/>
   
