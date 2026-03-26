@@ -21,7 +21,7 @@ Focus: High-Performance Applications & Data Intelligence
 
 # 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkerketta06&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Main Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark" alt="Main Stats" />
   
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
