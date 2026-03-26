@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am Rohit.
-Engineering secure, high-performance applications with a focus on Web Security and Data-Driven Intelligence. Proficient in C++, Java, and Python, I bridge the gap between robust software development and ethical hacking to build resilient digital systems.
+Rohit | BTech CSE
+Status: 1st Year (2nd Sem) Student
+
+Stack: Java • C • JavaScript • Web Development
+
+Focus: High-Performance Applications & Data Intelligence
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkerketta484@gmail.com) 
