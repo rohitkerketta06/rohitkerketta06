@@ -1,10 +1,4 @@
-# 💫 About Me:
-Rohit | BTech CSE
-Status: 1st Year (2nd Sem) Student
 
-Stack: Java • C • JavaScript • Web Development
-
-Focus: High-Performance Applications & Data Intelligence
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkerketta484@gmail.com) 
