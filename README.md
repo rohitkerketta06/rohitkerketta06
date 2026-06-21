@@ -1,5 +1,5 @@
 
-
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31mhnwlvvcrkzpwzwdzoon5sqy3a&cover_art=true&theme=default&show_offline=true)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkerketta484@gmail.com) 
 <!-- Snake Game Repo View -->
