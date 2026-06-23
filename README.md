@@ -1,5 +1,10 @@
-![Spotify Now Playing](https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true)
-
+<div align="center">
+  <!-- Spotify API card -->
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true" style="display: inline-block; vertical-align: middle; margin: 10px;" />
+  
+  <!-- Your GIF -->
+  <img src="https://github.com/user-attachments/assets/a2b30a60-db46-4749-af4a-95784e07f21a" width="350" style="display: inline-block; vertical-align: middle; margin: 10px;" />
+</div>
 
 
 ## 🐍 Contribution Snake
