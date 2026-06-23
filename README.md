@@ -1,10 +1,13 @@
-<div align="center">
-  <!-- Spotify API card -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true" style="display: inline-block; vertical-align: middle; margin: 10px;" />
-  
-  <!-- Your GIF -->
-  <img src="https://github.com/user-attachments/assets/a2b30a60-db46-4749-af4a-95784e07f21a" width="350" style="display: inline-block; vertical-align: middle; margin: 10px;" />
-</div>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true" />
+    </td>
+    <td style="border: none; padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/f1107565-6b7e-4f8a-983a-9d4913311b22" width="450" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🐍 Contribution Snake
