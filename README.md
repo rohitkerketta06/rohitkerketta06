@@ -1,4 +1,5 @@
 ![Spotify Now Playing](https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkerketta484@gmail.com) 
