@@ -1,7 +1,5 @@
 ![Spotify Now Playing](https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true)
-<a href="https://open.spotify.com/user/31mhnwlvvcrkzpwzwdzoon5sqy3a">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mhnwlvvcrkzpwzwdzoon5sqy3a&cover=true" alt="Spotify Now Playing" />
-</a>
+
 
 
 ## 🌐 Socials:
