@@ -2,8 +2,7 @@
 
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkerketta484@gmail.com) 
+## 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
 
 <div align="center">
