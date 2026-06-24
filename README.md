@@ -41,7 +41,7 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark" alt="Main Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark&cache_buster=1" />
   
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
