@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://leetcode.com/u/rohit_kerketta06/">
+      <a href="https://leetcode.com/u/rohit_kerketta06/" target="_blank" rel="noopener noreferrer">
         <img src="https://leetcard.jacoblin.cool/rohit_kerketta06?ext=contest" />
       </a>
     </td>
