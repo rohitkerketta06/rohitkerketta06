@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=rohitkerketta06&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Frohitkerketta06%2Frohitkerketta06%2Fmain%2Fneofetch.json">
+    <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=rohitkerketta06&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Frohitkerketta06%2Frohitkerketta06%2Fmain%2Fneofetch.json">
+  </picture>
+</p>
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
