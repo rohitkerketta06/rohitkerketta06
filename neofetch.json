@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+  "coloredImage": true,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Host", "value": "Cybersecurity Student" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Languages", "value": "{{languages}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "IDE", "value": "NeoVim, VSCode" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      "loc"
+    ]
+  }
+}
