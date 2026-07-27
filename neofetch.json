@@ -12,8 +12,19 @@
       ]
     },
     {
+      "title": "- Skills & Tools",
       "fields": [
+        { "key": "Security", "value": "CTF, Burp Suite, Nmap" },
         { "key": "IDE", "value": "NeoVim, VSCode" }
+      ]
+    },
+    {
+      "title": "- Coding & Security Profiles",
+      "fields": [
+        { "key": "LeetCode", "value": "https://leetcode.com/u/rohit_kerketta/" },
+        { "key": "TryHackMe", "value": "https://tryhackme.com/p/rohitkerketta484" },
+        { "key": "CodeChef", "value": "https://www.codechef.com/users/vivid_flash_95" },
+        { "key": "HackerRank", "value": "https://www.hackerrank.com/profile/rohitkerketta484" }
       ]
     }
   ],
