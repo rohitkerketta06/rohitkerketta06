@@ -47,22 +47,18 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark&cache_buster=1" />
-  
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark" alt="Rohit's GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkerketta06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-  <br/>
-  <br/>
-
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkerketta06&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <br/><br/>
   ---
-  
-  [![](https://visitcount.itsvg.in/api?id=rohitkerketta06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rohitkerketta06&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
