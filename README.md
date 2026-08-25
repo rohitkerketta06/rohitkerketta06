@@ -48,14 +48,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=rohitkerketta06&theme=dark" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark" alt="Rohit's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/langs?username=rohitkerketta06&theme=dark" alt="Top Languages" />
-  <br/><br/>
-  ---
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkerketta06&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
