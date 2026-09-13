@@ -8,7 +8,7 @@
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;" align="center">
-     <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=rohitkerketta06&theme=dark&layout=compact&hide_border=true&v=1" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=e6a6252b-3391-4e4c-a84a-00bfb8db26ec&theme=dark&layout=compact&hide_border=true&v=99" alt="WakaTime Stats" />
     </td>
     <td style="border: none; padding: 10px;" align="center">
       <img src="https://github.com/user-attachments/assets/f1107565-6b7e-4f8a-983a-9d4913311b22" width="450" alt="Desk setup" />
