@@ -4,17 +4,17 @@
     <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=rohitkerketta06&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Frohitkerketta06%2Frohitkerketta06%2Fmain%2Fneofetch.json&v=3">
   </picture>
 </p>
+
 <table align="center" style="border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhnwlvvcrkzpwzwdzoon5sqy3a&hide_total=true" />
+    <td style="border: none; padding: 10px;" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=rohitkerketta06&theme=dark&layout=compact&hide_border=true" alt="WakaTime Stats" />
     </td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/f1107565-6b7e-4f8a-983a-9d4913311b22" width="450" />
+    <td style="border: none; padding: 10px;" align="center">
+      <img src="https://github.com/user-attachments/assets/f1107565-6b7e-4f8a-983a-9d4913311b22" width="450" alt="Desk setup" />
     </td>
   </tr>
 </table>
-
 
 ## 🐍 Contribution Snake
 <!-- Snake Game Repo View -->
@@ -24,11 +24,13 @@
 </div>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
-<br></br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br><br>
+
 <div align="center">
 
-  # 🚀 Welcome to my Coding Space!
+# 🚀 Welcome to my Coding Space!
 
 <table align="center">
   <tr>
@@ -43,16 +45,14 @@
   </tr>
 </table>
 
-<div align="center">
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark" alt="Rohit's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohitkerketta06&show_icons=true&theme=dark" alt="Rohit's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkerketta06&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkerketta06&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohitkerketta06&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
