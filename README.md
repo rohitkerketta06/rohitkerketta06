@@ -31,7 +31,9 @@
 
 <div align="center">
 
-# 🚀 Welcome to my Coding Space!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=%F0%9F%9A%80+Welcome+to+my+Coding+Space!;Turning+coffee+into+clean+code...;%3E+rohit.init();%3E+cd+%2Fworkspace%2Fprojects;%3E+git+commit+-m+%22Learning+every+day%22;%3E+Status%3A+Ready+to+build." alt="Terminal Typing SVG" />
+</p>
 
 <table align="center">
   <tr>
