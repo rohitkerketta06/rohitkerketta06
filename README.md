@@ -5,12 +5,13 @@
   </picture>
 </p>
 
+<!-- WakaTime & Desk Setup -->
 <table align="center" style="border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=e6a6252b-3391-4e4c-a84a-00bfb8db26ec&theme=dark&layout=compact&hide_border=true&v=99" alt="WakaTime Stats" />
+    <td style="border: none; padding: 10px;" align="center" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=e6a6252b-3391-4e4c-a84a-00bfb8db26ec&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=388bfd&border_radius=8&langs_count=5&v=105" alt="WakaTime Stats" />
     </td>
-    <td style="border: none; padding: 10px;" align="center">
+    <td style="border: none; padding: 10px;" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/f1107565-6b7e-4f8a-983a-9d4913311b22" width="450" alt="Desk setup" />
     </td>
   </tr>
